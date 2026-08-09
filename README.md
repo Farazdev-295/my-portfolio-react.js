@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ Virtual DOM Banata Hai (Memory mein)
 ReactDOM Real DOM Banata Hai (Screen par)
          ↓
 User Dekhta Hai
+=======
+# my-portfolio
+My responsive react.js portfolio
+>>>>>>> 9e400e970940a0253bd2ef6ea76a6cb115cd1414
